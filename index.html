@@ -705,7 +705,7 @@
 
         async function init() {
             try {
-                const response = await fetch('data.json');
+                const response = await fetch('dados/dados.json');
                 const jsonData = await response.json();
 
                 periodOrder = jsonData._ordem_exibicao || [];
