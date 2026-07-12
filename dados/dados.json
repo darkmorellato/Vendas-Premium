@@ -1,7 +1,42 @@
 {
-  "_instrucoes": "Para adicionar um novo mês: copie um bloco existente (ex: fev2026), altere a chave (ex: 'mar2026'), 'label', 'total' e 'data'. Certifique que a nova chave está no INÍCIO de '_ordem_exibicao'. Salve e recarregue o dashboard.",
-  "_ordem_exibicao": ["maio2026", "abril2026", "mar2026", "fev2026", "jan2026", "dez2025", "nov2025", "out2025"],
-  "maio2026": {
+  "_instrucoes": "Para adicionar um novo mês: copie um bloco existente (ex: jun2026), altere a chave (ex: 'jul2026'), 'label', 'total' e 'data'. Certifique que a nova chave está no INÍCIO de '_ordem_exibicao'. Salve e recarregue o dashboard.",
+"_ordem_exibicao": ["jun2026", "maio2026", "abril2026", "mar2026", "fev2026", "jan2026", "dez2025", "nov2025", "out2025"],
+"jun2026": {
+  "label": "Junho 2026",
+  "total": 71,
+  "data": [
+    { "name": "ADAPTADOR TOMADA (BRINDE)", "quantity": 1, "percentage": 0.0141 },
+    { "name": "CARREGADOR HONOR 66W C/CABO 1MT (BRINDE 400 LITE)", "quantity": 1, "percentage": 0.0141 },
+    { "name": "CARREGADOR MOTOROLA 68W", "quantity": 1, "percentage": 0.0141 },
+    { "name": "CHIP CLARO PREZÃO", "quantity": 5, "percentage": 0.0704 },
+    { "name": "COPO STANLEY (BRINDE)", "quantity": 7, "percentage": 0.0986 },
+    { "name": "DESCONTO VENDA", "quantity": 1, "percentage": 0.0141 },
+    { "name": "FONE BLUETOOTH REDMI AIRDOTS (BRINDE)", "quantity": 14, "percentage": 0.1972 },
+    { "name": "FONE COM FIO LE-0204 LELONG", "quantity": 1, "percentage": 0.0141 },
+    { "name": "HONOR MAGIC 8 LITE 5G 8/512 BLACK", "quantity": 1, "percentage": 0.0141 },
+    { "name": "HONOR X5C 4/128 MIDNIGHT BLACK", "quantity": 4, "percentage": 0.0563 },
+    { "name": "HONOR X5C 4/128 OCEAN CYAN", "quantity": 6, "percentage": 0.0845 },
+    { "name": "HONOR X7D 8/256 DESERT GOLD", "quantity": 3, "percentage": 0.0423 },
+    { "name": "HONOR X7D 8/256 OCEAN CYAN", "quantity": 4, "percentage": 0.0563 },
+    { "name": "IPHONE 15 128 PRETO", "quantity": 1, "percentage": 0.0141 },
+    { "name": "IPHONE 17 256G MIST BLUE", "quantity": 1, "percentage": 0.0141 },
+    { "name": "IPHONE 17 PRO MAX 256G LARANJA", "quantity": 1, "percentage": 0.0141 },
+    { "name": "MOTO G15 4/256 CINZA", "quantity": 2, "percentage": 0.0282 },
+    { "name": "MOTO G15 4/256 VERDE", "quantity": 1, "percentage": 0.0141 },
+    { "name": "MOTO G15 8/256 GRAVITY GRAY", "quantity": 1, "percentage": 0.0141 },
+    { "name": "MOTO G56 5G 8/256 GRAY MIST", "quantity": 1, "percentage": 0.0141 },
+    { "name": "PAGAMENTO ENCOMENDA (PDV)", "quantity": 3, "percentage": 0.0423 },
+    { "name": "PELICULA HD HYDROGEL STANDARD", "quantity": 2, "percentage": 0.0282 },
+    { "name": "POCO X7 PRO 5G 12/512 BLACK", "quantity": 2, "percentage": 0.0282 },
+    { "name": "POCO X8 PRO 5G 8/512 WHITE", "quantity": 1, "percentage": 0.0141 },
+    { "name": "POWER BANK MAGNÉTICO KD 998 BRANCO 10000MAH KAIDI", "quantity": 1, "percentage": 0.0141 },
+    { "name": "REALME C67 8/256 ** S/NFC ** BLACK ROCK", "quantity": 1, "percentage": 0.0141 },
+    { "name": "REALME C71 8/256 VIOLET PARROT", "quantity": 2, "percentage": 0.0282 },
+    { "name": "REALME NOTE 70 4/128 BEACH GOLD", "quantity": 1, "percentage": 0.0141 },
+    { "name": "REDMI NOTE 15 4G 8/256 PURPLE", "quantity": 1, "percentage": 0.0141 }
+  ]
+},
+"maio2026": {
     "label": "Maio 2026",
     "total": 141,
     "data": [
