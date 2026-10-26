@@ -9,6 +9,7 @@ Dashboard executivo para análise de vendas e mix de produtos.
 ├── pr.jpg             # Logo da empresa
 ├── dados/
 │   ├── dados.json     # Arquivo combinado com todos os meses (usado pelo dashboard)
+│   ├── setembro2026.json # Dados de Setembro 2026 (arquivo separado)
 │   ├── ago2026.json   # Dados de Agosto 2026 (arquivo separado)
 │   ├── jul2026.json   # Dados de Julho 2026 (arquivo separado)
 │   ├── jun2026.json   # Dados de Junho 2026 (arquivo separado)
